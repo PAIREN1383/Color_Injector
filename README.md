@@ -41,4 +41,5 @@ Here is the test log:
 ```
 ### HINT
 After using the program, clear the log file.
+
 Don't forget to give a star. ;)
