@@ -21,7 +21,7 @@ To change colors more easily and find good color combinations for web pages. Don
 It will be saved in the program directory. Right here: E:\PYTHON.VSC\Color_Injector\
 
 ### What information will be in the log file?
-- Here is the test log:
+Here is the test log:
 ```
 [14-10-2022 17:30:02] ********** Color Injector launched. **********
 [14-10-2022 17:30:05] Number of repetitions: 30
