@@ -22,7 +22,7 @@ It will be saved in the program directory. Right here: E:\PYTHON.VSC\Color_Injec
 
 ### What information will be in the log file?
 - Here is the test log:
----
+```
 [14-10-2022 17:30:02] ********** Color Injector launched. **********
 [14-10-2022 17:30:05] Number of repetitions: 30
 [14-10-2022 17:30:14] Path of CSS file: E:\PYTHON_Projects\Menu1\Menu1.css
@@ -34,4 +34,4 @@ It will be saved in the program directory. Right here: E:\PYTHON.VSC\Color_Injec
 [14-10-2022 17:30:39] |N3| List of colors: ['1c005c', '037d41', 'c8f41e', 'ae5f8a', '5176ff']
 [14-10-2022 17:30:44] |N4| List of colors: ['cb1029', '5181dd', 'e421c1', 'd9d198', 'd13ad3']
 [14-10-2022 17:30:49] |N5| List of colors: ['76c085', '5a7c58', '969ad9', '44d824', '75dbc8']
----
+```
