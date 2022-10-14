@@ -39,3 +39,6 @@ Here is the test log:
 [14-10-2022 17:30:44] |N4| List of colors: ['cb1029', '5181dd', 'e421c1', 'd9d198', 'd13ad3']
 [14-10-2022 17:30:49] |N5| List of colors: ['76c085', '5a7c58', '969ad9', '44d824', '75dbc8']
 ```
+### HINT
+After using the program, clear the log file.
+Don't forget to give a star. ;)
