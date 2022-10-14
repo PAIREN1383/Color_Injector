@@ -22,7 +22,7 @@ To change colors more easily and find good color combinations for web pages. Don
 - Step 9: Enter 'q' or 'e' or '2' to exit the program.
 
 ### Where is the log file?
-It will be saved in the program directory. Right here: _"Your program directory"_
+It will be saved in the program directory.
 
 ### What information will be in the log file?
 Here is the test log:
