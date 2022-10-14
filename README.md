@@ -14,10 +14,10 @@ To change colors more easily and find good color combinations for web pages. Don
 - Step 2: Enter '1'.
 - Step 3: Enter number of repetitions, like 80, then you can change colors for 80 times.
 - Step 4: Enter path of CSS file for color injection.
-- Step 5: Enter an appropriate name (without these characters: \/:*?"<>|) for new backup file. You don't need to end the name with '.css'.
+- Step 5: Enter an appropriate name (without these characters: \/:*?"<>|) for the new backup file. You don't need to end the name with '.css'.
 - Step 6: Enter mode. If you want to change colors every 10 seconds, enter 't2' (t1=5s, t2=10s, t3=15s, tn=n*5s). If you want to change colors with pressing 'Enter', enter 'p'.
 - Step 8: Select lines for color injection like '8, 12, 21'or enter 'all' to select all lines or enter 'abc' to select all background-colors or enter 'ac' to select all colors.
-- Step 7: Open HTML file on 'Live Server' (it is a 'VS Code' Extention).
+- Step 7: Open HTML file on 'Live Server' (it is a 'VS Code' extension).
 - Step 8: After selecting color, if you enter 'p' mode, enter 'e' or 'q' to stop injection or if you enter 't' mode, press 'Ctrl + C' to stop injection.
 - Step 9: Enter 'q' or 'e' or '2' to exit the program.
 
