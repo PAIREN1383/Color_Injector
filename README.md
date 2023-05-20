@@ -41,5 +41,6 @@ Here is the test log:
 ```
 ### HINT
 After using the program, clear the log file.
+Do not convert this python file to an executable file. If you convert this file to an executable file, it can't find its own folder.
 
 Don't forget to give a star. ;)
