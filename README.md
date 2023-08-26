@@ -2,7 +2,6 @@
 To change colors more easily and find good color combinations for web pages.
 
 ![image from Color_Injector user interface](https://github.com/PAIREN1383/Color_Injector/blob/main/Color_Injector_img.PNG)
-![image from Color_Injector user interface](https://github.com/PAIREN1383/Color_Injector/blob/main/Color_Injector_img2.PNG)
 
 
 ## Help Content:
