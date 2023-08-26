@@ -18,9 +18,9 @@ To change colors more easily and find good color combinations for web pages. Don
 - Step 7: Enter mode. If you want to change colors every 10 seconds, enter 't2' (t1=5s, t2=10s, t3=15s, tn=n*5s). If you want to change colors with pressing 'Enter', enter 'p'.
 - Step 8: If everything is correct, enter 'y'.
 - Step 9: Select lines for color injection like '8, 12, 21',
--- or enter 'all' to select all lines,
--- or enter 'abc' to select all background-colors,
--- or enter 'ac' to select all colors.
+  - or enter 'all' to select all lines,
+  - or enter 'abc' to select all background-colors,
+  - or enter 'ac' to select all colors.
 - Step 10: If you are entering live server mode, open the HTML file in Live Server.
 - Step 11: After selecting color, if you enter 'p' mode, enter 'e' or 'q' to stop injection, or if you enter 't' mode, press 'Ctrl + Alt + Z' to stop injection.
 - Step 12: Enter 'q' or 'e' or '2' to exit the program.
